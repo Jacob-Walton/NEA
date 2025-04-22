@@ -1,0 +1,3 @@
+[submodule "NSQL"]
+	path = NSQL
+	url = https://github.com/Jacob-Walton/NSQL
