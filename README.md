@@ -10,4 +10,4 @@ This is my github monorepo for my A-Level NEA project. This project will contain
 ## Submodules
 
 - `NSQL`:
-  - View [NSQL](NSQL/README.md) for information on NSQL.
+  - View [NSQL](https://github.com/Jacob-Walton/NSQL#readme) for information on NSQL.
