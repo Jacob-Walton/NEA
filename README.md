@@ -11,3 +11,5 @@ This is my github monorepo for my A-Level NEA project. This project will contain
 
 - `NSQL`:
   - View [NSQL](https://github.com/Jacob-Walton/NSQL#readme) for information on NSQL.
+- `DB-Admin`:
+  - View [DB-Admin](https://github.com/Jacob-Walton/DB-Admin#readme) for information on DB-Admin.
