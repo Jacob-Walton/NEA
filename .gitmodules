@@ -1,7 +1,3 @@
-[submodule "NSQL"]
-	path = NSQL
-	url = https://github.com/Jacob-Walton/NSQL
-	branch = main
 [submodule "DB-Admin"]
 	path = DB-Admin
 	url = https://github.com/Jacob-Walton/DB-Admin
@@ -9,3 +5,4 @@
 [submodule "MonoDB"]
 	path = MonoDB
 	url = https://github.com/Jacob-Walton/MonoDB
+	branch = main
