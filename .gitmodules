@@ -6,3 +6,6 @@
 	path = DB-Admin
 	url = https://github.com/Jacob-Walton/DB-Admin
 	branch = main
+[submodule "MonoDB"]
+	path = MonoDB
+	url = https://github.com/Jacob-Walton/MonoDB
