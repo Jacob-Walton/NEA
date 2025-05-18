@@ -9,7 +9,7 @@ This is my github monorepo for my A-Level NEA project. This project will contain
 
 ## Submodules
 
-- `NSQL`:
-  - View [NSQL](https://github.com/Jacob-Walton/NSQL#readme) for information on NSQL.
+- `MonoDB`:
+  - View [MonoDB](https://github.com/Jacob-Walton/MonoDB#readme) for information on MonoDB.
 - `DB-Admin`:
   - View [DB-Admin](https://github.com/Jacob-Walton/DB-Admin#readme) for information on DB-Admin.
